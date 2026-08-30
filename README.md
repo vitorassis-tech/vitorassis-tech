@@ -1,73 +1,113 @@
-# 👋 Olá, eu sou Vitor da Silva de Assis
+# Olá, eu sou Vitor da Silva de Assis 👋
 
-💻 **Python | SQL | Power BI | HTML | CSS | Data Analytics | Inteligência Artificial**
+### Dados, BI e Automação aplicados a problemas reais de negócio
 
-Profissional com experiência em **logística, roteirização e análise de processos**, direcionando minha carreira para a área de **Tecnologia, Dados e Inteligência Artificial**.
+Profissional com experiência prática em **Logística, Roteirização e Análise de Processos Operacionais**, direcionando minha carreira para **Análise de Dados, Business Intelligence, Desenvolvimento e Inteligência Artificial**.
 
-Tenho interesse em transformar dados em informações úteis para apoiar decisões, otimizar processos e desenvolver soluções utilizando tecnologia.
+Meu objetivo é transformar dados operacionais em informações úteis para apoiar decisões, identificar gargalos, automatizar tarefas e melhorar indicadores de desempenho.
 
-## 🚀 Sobre mim
+Atualmente, desenvolvo projetos que conectam minha experiência em logística com ferramentas como **Python, SQL, Power BI e Excel**.
 
-* 🚛 Experiência profissional em logística e roteirização
-* 📊 Análise de dados e indicadores
-* 🐍 Python
-* 🌐 HTML e CSS
-* 🗄️ SQL e MySQL
-* 📈 Power BI
-* 📊 Excel
-* 🗃️ Banco de dados
-* 🤖 Inteligência Artificial
-* ⚙️ Automação de processos
-* 💻 Git e GitHub
+---
 
-## 🛠️ Tecnologias e ferramentas
+## Sobre mim
 
-`Python` `HTML` `CSS` `SQL` `MySQL` `Power BI` `Excel` `Git` `GitHub` `IA`
+- Experiência em logística, transportes, roteirização e controle operacional
+- Desenvolvimento de análises e indicadores para apoio à tomada de decisão
+- Criação de dashboards, relatórios e automações
+- Conhecimento de processos logísticos e necessidades reais do negócio
+- Em evolução constante nas áreas de Dados, Desenvolvimento e IA
 
-## 📚 Atualmente estudando
+---
 
-* 🐍 Python
-* 🌐 HTML e CSS
-* 🤖 Inteligência Artificial
-* 📊 Análise de Dados
-* 🗄️ Banco de Dados
-* 📈 Power BI
-* ⚙️ Automação de processos
+## Tecnologias e ferramentas
 
-## 📂 Projetos
+### Dados e Business Intelligence
 
-### 🐍 Análise de Dados com Python
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
-Projeto utilizando Python para tratamento, análise e visualização de dados.
+### Desenvolvimento e versionamento
 
-### 🗄️ Banco de Dados com SQL
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-Projeto de criação, consulta e análise de banco de dados utilizando SQL e MySQL.
+### Áreas de estudo e aplicação
+
+`Análise de Dados` `Business Intelligence` `Automação de Processos`
+`Inteligência Artificial` `Logística` `Indicadores de Desempenho`
+
+---
+
+## Projetos em destaque
+
+### 🚚 Análise Logística com Python
+
+Análise de dados operacionais para acompanhar entregas, custos, prazos, desempenho de transportadoras e ocorrências logísticas.
+
+**Tecnologias:** Python, Pandas e visualização de dados.
+
+🔗 [Acessar o projeto](https://github.com/vitorassis-tech/analise-logistica-python)
+
+---
 
 ### 📊 Dashboard de Indicadores Logísticos
 
-Dashboard desenvolvido para acompanhamento de indicadores e análise de desempenho operacional.
+Dashboard desenvolvido para acompanhar KPIs como entregas no prazo, atrasos, custo de frete, desempenho por região e nível de serviço.
 
-### 🚛 Análise de Rotas e Indicadores Logísticos
+**Tecnologias:** Power BI, Power Query e DAX.
 
-Projeto voltado para análise de dados logísticos, roteirização e identificação de oportunidades de melhoria.
+🔗 Adicionar link quando o projeto estiver publicado.
 
-### 🌐 Projetos Web com HTML e CSS
+---
 
-Projetos desenvolvidos durante meus estudos de desenvolvimento web, utilizando HTML e CSS para criação e estruturação de páginas.
+### 🗄️ Análise de Operações com SQL
 
-### 🤖 Estudos em Inteligência Artificial
+Consultas SQL aplicadas a uma base operacional para identificar atrasos, custos, volumes transportados e desempenho por transportadora.
 
-Projetos e estudos relacionados à Inteligência Artificial, explorando conceitos, ferramentas e aplicações práticas.
+**Tecnologias:** SQL e MySQL.
 
-## 🎯 Objetivo
+🔗 Adicionar link quando o projeto estiver publicado.
 
-Desenvolver minha carreira na área de **Tecnologia, Dados, Desenvolvimento e Inteligência Artificial**, unindo minha experiência em logística com conhecimentos em programação, banco de dados, análise de dados e automação de processos.
+---
 
-## 🔗 Contato
+## O que estou estudando
 
-💼 [LinkedIn](https://www.linkedin.com/in/vitorazziz)
+- Python para análise de dados e automação
+- SQL e modelagem de bancos de dados
+- Power BI, Power Query e DAX
+- Git e GitHub
+- Inteligência Artificial aplicada a processos
+- Desenvolvimento web com HTML e CSS
 
-📧 [vitorazziz@gmail.com](mailto:vitorazziz@gmail.com)
+---
 
+## Objetivo profissional
+
+Busco oportunidades nas áreas de:
+
+- Análise de Dados
+- Business Intelligence
+- Desenvolvimento
+- Automação de Processos
+- Tecnologia aplicada à Logística
+- Inteligência Artificial
+
+Tenho interesse especial em projetos nos quais a tecnologia possa melhorar processos, reduzir atividades manuais e apoiar decisões de negócio.
+
+---
+
+## Contato
+
+[![E-mail](https://img.shields.io/badge/E--mail-vitorazziz%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vitorazziz@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-vitorassis--tech-181717?style=for-the-badge&logo=github)](https://github.com/vitorassis-tech)
+
+---
+
+> Este perfil apresenta minha evolução prática em Dados, Tecnologia e Inteligência Artificial, conectando conhecimento técnico com experiência real em operações logísticas.
 
